@@ -1,7 +1,9 @@
 
 
 <div align="center">
-<img src="assets/ZetaForge-Logo-White-Background.png" alt="ZetaForge Logo" style="width:400px;padding-bottom: 15px"/>
+<div align="center">
+<h1 style="width:400px;padding-bottom: 15px">ZetaForgeDev</h1>
+</div>
 
 
 [![PyPI version](https://badge.fury.io/py/zetaforge.svg)](https://badge.fury.io/py/zetaforge)
