@@ -21,9 +21,9 @@ Open source AI platform for rapid development of advanced AI and AGI pipelines.
 
 
 <a id="why-zetaforge"></a>
-## 🔥 Why ZetaForge?
+## 🔥 Why ZetaForgeDev?
 
-ZetaForge is an AI platform designed to accelerate the development and deployment of advanced AI solutions. It allows users to assemble reusable, customizable, and containerized Blocks into highly visual AI Pipelines, enabling rapid experimentation and collaboration.
+ZetaForgeDev is an AI platform designed to accelerate the development and deployment of advanced AI solutions. It allows users to assemble reusable, customizable, and containerized Blocks into highly visual AI Pipelines, enabling rapid experimentation and collaboration.
 
 - **Language Agnostic:** Work with AI technologies in any programming language.
 - **Dynamic:** Easily modify and update AI pipelines with new or improved components.
@@ -35,7 +35,7 @@ ZetaForge is an AI platform designed to accelerate the development and deploymen
 
 
 ## 📰 Breaking News
-We've launched the first release of ZetaForge! Start building AI pipelines with our core features. 
+We've launched the first release of ZetaForgeDev! Start building AI pipelines with our core features. 
 
 New blocks and pipelines have been added to the core library.
 
@@ -47,13 +47,13 @@ Expect regular updates with new enhancements.
 ## Getting Started
 
 **Installation**
-You can install ZetaForge Python Package through pip by running the following command in your terminal:
+You can install ZetaForgeDev Python Package through pip by running the following command in your terminal:
 
 ```
 pip install zetaforge
 ```
 
-Or, you can clone the ZetaForge GitHub repository and install from source by running:
+Or, you can clone the ZetaForgeDev GitHub repository and install from source by running:
 
 ```
 git clone https://github.com/zetane/zetaforge
@@ -66,18 +66,18 @@ pip install .
 
 You need to install Docker Desktop or any other container runtime that includes Kubernetes integration.
 Follow the instructions to [install Docker Desktop](https://docs.docker.com/desktop/) from their official website.
-You will need to [enable Kubernetes](https://docs.docker.com/desktop/kubernetes/) to use ZetaForge.
+You will need to [enable Kubernetes](https://docs.docker.com/desktop/kubernetes/) to use ZetaForgeDev.
 
 > Note: We recommend [OrbStack](https://orbstack.dev/download) to macOS users for efficiency and performance reasons.
 
-## Launch ZetaForge
+## Launch ZetaForgeDev
 
-To launch ZetaForge, run the following command after installing via pip:
+To launch ZetaForgeDev, run the following command after installing via pip:
 ```
 zetaforge launch
 ```
 
-This will set up the correct services in Kubernetes, check that they are running, and then launch ZetaForge. 
+This will set up the correct services in Kubernetes, check that they are running, and then launch ZetaForgeDev. 
 
 If something goes wrong, you can run:
 
@@ -98,7 +98,7 @@ zetaforge teardown
 
 ![Demo Pipeline](assets/quick-start.gif)
 
-To experience ZetaForge in action, start by dragging and dropping a core pipeline, such as the "Canny Edge Pipeline," from the Core Pipelines Library into your workspace. Once the pipeline is loaded, click the "Run" button to see the magic happen!
+To experience ZetaForgeDev in action, start by dragging and dropping a core pipeline, such as the "Canny Edge Pipeline," from the Core Pipelines Library into your workspace. Once the pipeline is loaded, click the "Run" button to see the magic happen!
 
 ## Core Blocks and Pipelines
 
@@ -121,9 +121,9 @@ View 3D Numpy, Images, Videos, Text and [many more](./frontend/core/blocks).
 
 ## Documentation
 
-Explore our [official documentation](https://zetane.com/docs/) for a guide on using ZetaForge. Learn how to create your own ZetaForge blocks, assemble custom pipelines, and more. You'll also find tutorials and best practices to enhance your ZetaForge experience. 
+Explore our [official documentation](https://zetane.com/docs/) for a guide on using ZetaForgeDev. Learn how to create your own ZetaForgeDev blocks, assemble custom pipelines, and more. You'll also find tutorials and best practices to enhance your ZetaForgeDev experience. 
 
-If you prefer reading a blog instead, check out our 3-part blog on [Medium](https://medium.com/zetane-blog/create-your-multimedia-ai-generated-storybook-with-zetaforge-part-i-9aae9860a493) that goes through the motivation as well as many technical details through an exciting example: **Create Your Multimedia AI-generated Storybook with ZetaForge** ([Part I](https://medium.com/zetane-blog/create-your-multimedia-ai-generated-storybook-with-zetaforge-part-i-9aae9860a493), [Part II](https://medium.com/zetane-blog/zetaforge-use-case-example-a-multimedia-ai-generated-storybook-part-ii-4668c2d9360d), [Part III](https://medium.com/zetane-blog/zetaforge-use-case-example-a-multimedia-ai-generated-storybook-part-iii-6b79f60c5a56))!
+If you prefer reading a blog instead, check out our 3-part blog on [Medium](https://medium.com/zetane-blog/create-your-multimedia-ai-generated-storybook-with-zetaforge-part-i-9aae9860a493) that goes through the motivation as well as many technical details through an exciting example: **Create Your Multimedia AI-generated Storybook with ZetaForgeDev** ([Part I](https://medium.com/zetane-blog/create-your-multimedia-ai-generated-storybook-with-zetaforge-part-i-9aae9860a493), [Part II](https://medium.com/zetane-blog/zetaforge-use-case-example-a-multimedia-ai-generated-storybook-part-ii-4668c2d9360d), [Part III](https://medium.com/zetane-blog/zetaforge-use-case-example-a-multimedia-ai-generated-storybook-part-iii-6b79f60c5a56))!
 
 
 ## Pipeline Gallery
@@ -155,7 +155,7 @@ This streamlined process ensures easy sharing and consistent results across your
 
 ## Contributing
 
-ZetaForge is under active development. We welcome contributions from the community to make our project even better! 
+ZetaForgeDev is under active development. We welcome contributions from the community to make our project even better! 
 
 Before contributing, please take a moment to review our [Contribution Guide](CONTRIBUTING.md) to see our guidelines.
 Whether it's improving documentations, reporting bugs, suggesting new features, or submitting code changes, 
@@ -169,7 +169,7 @@ your contributions help us improve the project for everyone.
 ## Contact
 
 - Reach out to us on [Discord](https://discord.gg/zetaforge) if you have any questions or issues.
-- ZetaForge Homepage: [https://www.zetaforge.com/](https://www.zetaforge.com/)
+- Zetane Homepage: [https://www.zetane.com/](https://www.zetane.com/)
 
 
 <!-- ## Star History
